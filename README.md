@@ -10,3 +10,6 @@ The 'Dataset' folder has two separate datasets -
 
 ## Models 
 To test the models, refer to notebooks *base_model.ipynb* and *local_feedback_models.ipynb*. Some pre-trained models can be found at: https://utexas.box.com/s/gzfbybfm9elepccclaaldk4hjzr8jdg5
+
+## Demo and Mobile App
+A short demo of the mobile application built on our proposed models can be found at: https://vimeo.com/702709509
