@@ -1,5 +1,5 @@
 # visimpaired
-This repository contains the dataset and models proposed in the paper - 'Helping Visually Impaired People Take Better Quality Pictures'. If this work helps in you research, please cite us - https://arxiv.org/abs/2305.08066
+This repository contains the dataset and models proposed in the paper - ***'Helping Visually Impaired People Take Better Quality Pictures'***. If this work helps in you research, please cite us - https://arxiv.org/abs/2305.08066
 
 ## Dataset
 The 'Dataset' folder has two separate datasets -
