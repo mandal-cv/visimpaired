@@ -9,7 +9,7 @@ The 'Dataset' folder has two separate datasets -
    We have sampled images from the dataset and labeled them similarly to VizWiz. The sampled images can be found [here](https://utexas.box.com/s/hu1ktilsernkcbtf01uc7g94f9qr8y7r).
 
 ## Models 
-To test the models, refer to notebooks *base_model.ipynb* and *local_feedback_models.ipynb*. Some pre-trained models can be found [here]([https://utexas.box.com/s/gzfbybfm9elepccclaaldk4hjzr8jdg5](https://utexas.box.com/s/gj8x4wrvtbedf6hc6x9vsamk6od271wl)).
+To test the models, refer to notebooks *base_model.ipynb* and *local_feedback_models.ipynb*. Some pre-trained models can be found [here](https://utexas.box.com/s/gj8x4wrvtbedf6hc6x9vsamk6od271wl).
 
 ## Demo and Mobile App
 A short demo of the mobile application built on our proposed models can be found [here](https://vimeo.com/702709509).
