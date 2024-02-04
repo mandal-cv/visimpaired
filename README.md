@@ -1,6 +1,7 @@
 # visimpaired
 This repository contains the dataset and models proposed in the paper - ***'Helping Visually Impaired People Take Better Quality Pictures'***. If this work helps in you research, please cite us -
-M. Mandal, D. Ghadiyaram, D. Gurari and A. C. Bovik, "Helping Visually Impaired People Take Better Quality Pictures," in IEEE Transactions on Image Processing, vol. 32, pp. 3873-3884, 2023, doi: 10.1109/TIP.2023.3282067.
+
+M. Mandal, D. Ghadiyaram, D. Gurari and A. C. Bovik, <em>"Helping Visually Impaired People Take Better Quality Pictures,"</em> in IEEE Transactions on Image Processing, vol. 32, pp. 3873-3884, 2023, doi: 10.1109/TIP.2023.3282067.
 
 ## Dataset
 The 'Dataset' folder has two separate datasets -
